@@ -35,7 +35,7 @@ Primero debes clonar el repositorio, para eso utilizas git, si aún no lo tienes
 
 una vez configurado el nombre y el email procedes a clonar el repositorio
 
-*git clone https://github.com/elviserranoh/Eureka.git
+*git clone https://github.com/elviserranoh/msUser.git
 
 ```
 
